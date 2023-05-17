@@ -152,7 +152,7 @@ onMounted(() => {
           :title="movie.title"
           :description="movie.overview"
           :image="`https://image.tmdb.org/t/p/original${movie.backdrop_path}`"
-          url="/test"
+          :movie_id="movie.id"
         />
       </div>
     </div>
