@@ -10,7 +10,7 @@ Ceci est une application codée en Vue 3 (Composition), Typescript et TailwindCS
 ### Pré-requis
 
 1. Une [clé API](https://developer.themoviedb.org/) est nécessaire afin d'accéder aux affiches et détails de films depuis la base de donnée de TMDB.
-2. Renommer le fichier `.env.exemple` en `.env.development` ou `.env.production` et ajouter la clé api.
+2. Renommer le fichier `.env.example` en `.env.development` ou `.env.production` et ajouter la clé api.
 
 ### Installation
 
