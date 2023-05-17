@@ -5,8 +5,7 @@
     <nav class="flex items-center justify-between gap-4 text-white py-6 w-full">
       <RouterLink :to="{ name: 'home' }">
         <div class="flex items-center gap-10">
-          <i class="fa-solid fa-sun text-2xl"></i>
-          <p class="text-2xl">HelloCSE Movies</p>
+          <p class="text-2xl ml-10">HelloCSE Movies</p>
         </div>
       </RouterLink>
     </nav>
