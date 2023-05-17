@@ -29,3 +29,8 @@ npm run dev
 ```
 npm run build
 ```
+
+### A faire
+
+- Utilisation de Pinia ou de Vuex pour gérer l'état des films.
+- Ajouter la section "Autres films populaires" dans la route `movie`.
